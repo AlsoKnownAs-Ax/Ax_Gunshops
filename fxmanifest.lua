@@ -14,7 +14,7 @@ files{
 
 client_scripts {
     "lib/Tunnel.lua",
-	"lib/Proxy.lua",
+    "lib/Proxy.lua",
     "config.lua",
     'main/client.lua',
 }
